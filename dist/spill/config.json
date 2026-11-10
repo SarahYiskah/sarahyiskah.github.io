@@ -1,5 +1,6 @@
 {
   "minVersion": { "ios": "1.0.0", "android": "1.0.0" },
   "latestVersion": { "ios": "1.0.0", "android": "1.0.0" },
-  "ads": { "enabled": false, "interstitialEvery": 3, "interstitialFromLevel": 8, "rewardedEnabled": false }
+  "storeUrl": { "ios": "https://apps.apple.com/app/id6828977277" },
+  "ads": { "enabled": true, "interstitialEvery": 3, "interstitialFromLevel": 8, "rewardedEnabled": true }
 }
